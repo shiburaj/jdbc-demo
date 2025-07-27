@@ -2,3 +2,4 @@
 *.db
 *.class
 *.log
+maven/target/
